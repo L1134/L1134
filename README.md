@@ -2,7 +2,7 @@
 
 <!--
 **L1134/L1134** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-# 👋 Hi, I’m Laura Infinity (L1134)
+# 👋 Hi, I’m Laurier Oliveira (L1134)
 
 **AI & Cloud Engineer** | **Google Cloud & Vertex AI**  
 I build enterprise-grade AI systems and automation using cloud technologies.
