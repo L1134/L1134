@@ -1,59 +1,56 @@
-## Hi there 👋
+# 👋 Olá, eu sou a **Laurier Oliveira (L1134)**
 
-<!--
-**L1134/L1134** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-# 👋 Hi, I’m Laurier Oliveira (L1134)
-
-**AI & Cloud Engineer** | **Google Cloud & Vertex AI**  
-I build enterprise-grade AI systems and automation using cloud technologies.
+**AI & Cloud Engineer | Google Cloud & Vertex AI**
 
 ---
 
-## 🚀 About Me
-🌟 Passionate about AI, cloud computing and solving real business problems  
-📍 Based in Rio de Janeiro, Brazil  
-💼 Experience in Telecom + AI / Cloud transformation  
+## 🚀 Sobre mim  
+Sou engenheira focada em **Inteligência Artificial, Cloud Computing e automação corporativa**.  
+Aprendendo criar soluções de IA que transformam dados em impacto real para negócios usando **Google Cloud, Gemini, Vertex AI e RAG**.
+
+📍 Rio de Janeiro, Brasil  
+💼 Foco em **AI Engineer • Cloud Engineer • AI Transformation**
 
 ---
 
-## 🧠 Skills & Tech Stack
+## 🧠 Habilidades
 
-### Cloud & Infrastructure
+### ☁️ Cloud
 - Google Cloud Platform (GCP)  
-- Compute Engine, Cloud Run, Cloud Functions  
-- IAM & Security Controls  
+- Cloud Run, Cloud Functions  
+- Compute Engine  
+- IAM & Segurança
 
-### AI & Machine Learning
-- Vertex AI, Gemini, RAG (Retrieval-Augmented Generation)  
-- Conversational Agents / Chatbots  
-- BigQuery & Data Pipelines  
+### 🤖 Inteligência Artificial
+- Vertex AI  
+- Gemini  
+- RAG (Retrieval Augmented Generation)  
+- Agentes de IA e Chatbots corporativos
 
-### Tools & Languages
-- Python, APIs, SQL  
-- Git & GitHub Workflow  
+### 📊 Dados
+- BigQuery  
+- SQL  
+- Pipelines de dados
 
----
-
-## 📂 Featured Projects
-
-### 📌 *Enterprise AI & Automation*
-| Repository | Description |
-|------------|-------------|
-| `gemini-rag-enterprise` | AI assistant connected to enterprise data |
-| `hr-ai-agent` | Chatbot for HR onboarding and support |
-| `bigquery-ai-analytics` | BigQuery + AI analytics pipeline |
-| `cloud-ai-pipeline` | Automated model deployment with Vertex AI |
-
-*(Each repo has a clear README with code & architecture)*
+### 🛠 Dev
+- Python  
+- APIs  
+- Git & GitHub  
 
 ---
 
-## 📫 Let’s Connect
-🔗 LinkedIn: https://www.linkedin.com/in/laura-infinity8  
-📧 Email: your.email@example.com
+## 📂 Projetos
+🚧 Em construção — focados em IA aplicada a negócios, dados e automação corporativa.
 
 ---
 
-## ⚡ Fun Fact
-I’m building AI systems that empower women in tech through *Mulheres na Área Técnica* 💜
+## 🌍 Conecte-se comigo
+
+🔗 LinkedIn: https://www.linkedin.com/in/laurieroliveira 
+
+---
+
+## 💜 Missão
+Usar Inteligência Artificial para criar impacto social, inclusão e soluções reais para o Brasil.
+
 
