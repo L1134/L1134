@@ -12,6 +12,14 @@ Aprendendo criar soluções de IA que transformam dados em impacto real para neg
 💼 Foco em **AI Engineer • Cloud Engineer • AI Transformation**
 
 ---
+## Certifications | Certificações
+
+- Create Media Search and Recommendations Applications with AI Applications (Google Cloud)
+- Recommendations with AI Applications
+- Introduction to AI Applications
+- Vertex AI Search & Gemini Enterprise
+- Responsible AI with Google Cloud
+
 
 ## 🧠 Habilidades
 
@@ -47,6 +55,7 @@ Aprendendo criar soluções de IA que transformam dados em impacto real para neg
 ## 🌍 Conecte-se comigo
 
 🔗 LinkedIn: https://www.linkedin.com/in/laurieroliveira 
+👉 https://partner.skills.google/public_profiles/938f31ab-f902-4b5c-86b8-5dc25f423d93
 
 ---
 
