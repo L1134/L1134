@@ -20,6 +20,18 @@ Aprendendo criar soluções de IA que transformam dados em impacto real para neg
 - Vertex AI Search & Gemini Enterprise
 - Responsible AI with Google Cloud
 
+## 📊 Skills Validation | Validação de Competências
+
+This project is supported by hands-on training through Google Skills for Partners:
+
+- 10 technical courses completed
+- 6 guided hands-on labs (Google Cloud)
+- 58 structured lessons
+- 18 technical knowledge checks
+- 2 complete learning paths
+
+Focus areas:
+AI Applications | Vertex AI Search | Gemini Enterprise | Data Stores | Responsible AI
 
 ## 🧠 Habilidades
 
