@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/laurieroliveira)
 [![Google Cloud Skills](https://img.shields.io/badge/Google_Cloud_Partner-4285F4?style=for-the-badge&logo=google-cloud)](https://partner.skills.google/public_profiles/938f31ab-f902-4b5c-86b8-5dc25f423d93)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:LaurierOliveira@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:laura.laurieroliveira@gmail.com)
 
 ---
 
@@ -173,7 +173,7 @@ Acredito que tecnologia deve:
 
 - 🔗 **LinkedIn:** [linkedin.com/in/laurieroliveira](https://www.linkedin.com/in/laurieroliveira)
 - 🎓 **Google Cloud Partner:** [partner.skills.google/public_profiles/938f31ab-f902-4b5c-86b8-5dc25f423d93](https://partner.skills.google/public_profiles/938f31ab-f902-4b5c-86b8-5dc25f423d93)
-- 📧 **Email:** [LaurierOliveira@gmail.com](mailto:LaurierOliveira@gmail.com)
+- 📧 **Email:** [laura.laurieroliveira@gmail.com](mailto:laura.laurieroliveira@gmail.com)
 - 📍 **Location:** Rio de Janeiro, Brasil
 
 ---
